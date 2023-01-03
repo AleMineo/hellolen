@@ -379,6 +379,20 @@ figure form {
 	margin-top: -60px;
 }
 
+.instagram_box img{
+	margin: 0 auto !important;
+	opacity: 1 !important;
+}
+
+.amazon_box{
+	background: url(imgs/layout/amazon.png) top center no-repeat;
+}
+
+.amazon_box img{
+	margin: 0 auto !important;
+	opacity: 1 !important;
+}
+
 footer {
 	width: 100%;
 	margin: 0 auto;
