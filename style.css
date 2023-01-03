@@ -383,6 +383,7 @@ figure form {
 .instagram_box img{
 	margin: 0 auto !important;
 	opacity: 1 !important;
+	background: url(imgs/layout/instagram.png) top center no-repeat;
 }
 
 .amazon_box{
