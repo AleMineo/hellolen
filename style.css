@@ -1676,7 +1676,7 @@ form {
 	}
 
 	#boxes-gallery figure.preview {
-		height: 100px;
+		/* height: 100px; */
 	}
 
 	.modeling #boxes-gallery figure.preview img {
@@ -1902,4 +1902,5 @@ form {
 		float: none;
 		width: 100%;
 	}
+
 }
