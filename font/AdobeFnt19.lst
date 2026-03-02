@@ -1,0 +1,53 @@
+%!Adobe-FontList 1.19
+%Locale:0x410
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Hellolen\Documents\LAVORO\hellolen_2015\Font\kingthings_wrote-webfont.eot
+FileModTime:1473707956
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Hellolen\Documents\LAVORO\hellolen_2015\Font\kingthings_wrote-webfont.svg
+FileModTime:1473707955
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:KingthingsWrote
+FamilyName:Kingthings Wrote
+StyleName:Regular
+FullName:Kingthings Wrote Regular
+MenuName:Kingthings Wrote
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Hellolen\Documents\LAVORO\hellolen_2015\Font\kingthings_wrote-webfont.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:31664
+FileModTime:1473707955
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Kingthings Wrote
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Hellolen\Documents\LAVORO\hellolen_2015\Font\kingthings_wrote-webfont.woff
+FileModTime:1473707955
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Hellolen\Documents\LAVORO\hellolen_2015\Font\stylesheet.css
+FileModTime:1473707954
+%EndFont
+
