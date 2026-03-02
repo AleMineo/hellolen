@@ -103,40 +103,40 @@ gtag('config', 'G-990739KXME');
 
 <header>
 <ul id="primary">
-<li id="logo"><a href="/index.html" target="_self"><img src="../imgs/layout/hello-len_logo.png" alt="Hello Len* - cosplay &amp; manga art" /></a></li>
+<li id="logo"><a href="/index.html" target="_self"><img src="/imgs/layout/hello-len_logo.png" alt="Hello Len* - cosplay &amp; manga art" /></a></li>
 <li id="second-nav">
-<a href="/pagine/wishlist.htm"><img src="../imgs/layout/second-menu-wishlist.png" alt="Whishlist" title="<b>WISHLIST</b> <br> What I wish to have..."  width="44" height="98" border="0" class="someClass"/></a><a href="http://pub33.bravenet.com/guestbook/2805255744" target="_blank"><img src="../imgs/layout/second-menu-gb.png" alt="Guestbook" title="<b>GUESTBOOK</b> <br> Sign my guestbook!"  width="44" height="98" border="0" class="someClass"/></a><a href="http://www.dietroliceodavantimuseo.com/" target="_blank"><img src="../imgs/layout/second-menu-blog.png" alt="Blog" title="<b>BLOG</b> <br> My thoughts... My life..."  width="44" height="98" border="0" class="someClass"/></a>
+<a href="/pagine/wishlist.htm"><img src="/imgs/layout/second-menu-wishlist.png" alt="Whishlist" title="<b>WISHLIST</b> <br> What I wish to have..."  width="44" height="98" border="0" class="someClass"/></a><a href="http://pub33.bravenet.com/guestbook/2805255744" target="_blank"><img src="/imgs/layout/second-menu-gb.png" alt="Guestbook" title="<b>GUESTBOOK</b> <br> Sign my guestbook!"  width="44" height="98" border="0" class="someClass"/></a><a href="http://www.dietroliceodavantimuseo.com/" target="_blank"><img src="/imgs/layout/second-menu-blog.png" alt="Blog" title="<b>BLOG</b> <br> My thoughts... My life..."  width="44" height="98" border="0" class="someClass"/></a>
 </li>
 </ul>
 
 <div id="toppanel">
     <div id="panel"  class=" jcarousel" style="display: block;" >
       <ul id="mycarousel">
-		  <li><a href="/modeling/ilovemyjob.htm" id="myjob"><img src="../imgs/modeling/ilovemyjob/01.jpg"  width="140" height="190"  alt="I love my job" title="<b>I love my job</b>" class="someClass" /></a></li>
-      <li><a href="/pagine/modeling/steampunk_black.htm" id="steam-b"><img src="../imgs/modeling/steampunk_black/01.jpg"  width="140" height="190"  alt="Black Steampunk" title="<b>Black Steampunk</b>" class="someClass" /></a></li>
-      <li><a href="/pagine/modeling/warrior.htm" id="warrior"><img src="../imgs/modeling/warrior/01.jpg"  width="140" height="190"  alt="Queen of War" title="<b>Queen of War</b>" class="someClass" /></a></li>
-            <li><a href="/pagine/modeling/burlesque.htm" id="burlesque"><img src="../imgs/modeling/burlesque/01.jpg" width="140" height="190" alt="Burlesque" title="<b>Burlesque</b>"  class="someClass"/></a></li>
-              <li><a href="/pagine/modeling/just-me.htm" id="just"><img src="../imgs/modeling/just-me/01.jpg"  width="140" height="190"  alt="Just me!" title="<b>Just me!</b>" class="someClass" /></a></li>
-              <li><a href="/pagine/modeling/waste-of-time.htm" id="waste"><img src="../imgs/modeling/waste-of-time/01.jpg" width="140" height="190" alt="Waste of Time" title="<b>Waste of Time</b>"  class="someClass"/></a></li>
-            <li><a href="/pagine/modeling/hello-fun.htm" id="hello-fun"><img src="../imgs/modeling/hello-fun/hello-fun.jpg" width="140" height="190" alt="Hello Fun" title="<b>Hello Fun</b>"  class="someClass"/></a></li>
-      <li><a href="/pagine/modeling/victorian-purple.htm" id="victorian-purple"><img src="../imgs/modeling/victorian-purple/01.jpg" width="140" height="190" alt="Victorian Purple" title="<b>Victorian Purple</b>"  class="someClass"/></a></li>
-      <li><a href="/pagine/modeling/camden-gothic.htm" id="camden-gothic"><img src="../imgs/modeling/camden-gothic/01.jpg" width="140" height="190" alt="Back in Black" title="<b>Camden Gothic</b>"  class="someClass"/></a></li>
-       <li><a href="/pagine/modeling/back-in-black.htm" id="back-black"><img src="../imgs/modeling/back-in-black/01.jpg" width="140" height="190" alt="Back in Black" title="<b>Back in Black</b>"  class="someClass"/></a></li>
-        <li><a href="/pagine/modeling/purple-winter.htm" id="purple-winter"><img src="../imgs/modeling/purple-winter/purple-winter.jpg" width="140" height="190" alt="Purple Winter" title="<b>Purple Winter</b>"  class="someClass"/></a></li>
-        <li><a href="/pagine/modeling/pink-candy.htm" id="pink-candy"><img src="../imgs/modeling/pink-candy/pink-candy.jpg" width="140" height="190"alt="Pink Candy" title="<b>Pink Candy</b>" class="someClass" /></a></li>
-        <li><a href="/pagine/modeling/black-pink.htm" id="black-pink"><img src="../imgs/modeling/black-pink/pink-black_01.jpg" width="140" height="190"alt="Black Pink" title="<b>Black Pink</b>" class="someClass" /></a></li>
-        <li><a href="/pagine/modeling/stronger.htm" id="stronger"><img src="../imgs/modeling/stronger/stronger.jpg" width="140" height="190" alt="Stronger" title="<b>Stronger</b>" class="someClass" /></a></li>
-        <li><a href="/pagine/modeling/hot-pink.htm" id="hot-pink"><img src="../imgs/modeling/hot-pink/hot-pink.jpg" width="140" height="190" alt="Hot Pink" title="<b>Hot Pink</b>" class="someClass" /></a></li>
-        <li><a href="/pagine/modeling/treasure.htm" id="treasure"><img src="../imgs/modeling/treasure/treasure.jpg" width="140" height="190" alt="Treasure for a girl" title="<b>Treasure for a girl</b>" class="someClass" /></a></li>
-        <li><a href="/pagine/modeling/white-dots.htm" id="white-dots"><img src="../imgs/modeling/white-dots/white-dots.jpg" width="140" height="190" alt="White Dots" title="<b>White Dots</b>" class="someClass" /></a></li>
-        <li><a href="/pagine/modeling/decadence.htm" id="decadence"><img src="../imgs/modeling/decadence/decadence.jpg" width="140" height="190" alt="Decadence" title="<b>Decadence</b>" class="someClass" /></a></li>
-        <li><a href="/pagine/modeling/lolita.htm" id="lolita"><img src="../imgs/modeling/lolita/lolita.jpg" width="140" height="190" alt="Sweet Lolita" title="<b>Sweet Lolita</b>" class="someClass" /></a></li>
-        <li><a href="/pagine/modeling/legwarmer.htm" id="legwarmer"><img src="../imgs/modeling/legwarmer/legwarmer.jpg" width="140" height="190" alt="Legwarmer" title="<b>Legwarmer</b>" class="someClass" /></a></li>
-        <li><a href="/pagine/modeling/gothic.htm" id="gothic"><img src="../imgs/modeling/gothic/gothic.jpg" width="140" height="190" alt="Gothic" title="<b>Gothic</b>" class="someClass" /></a></li>
-        <li><a href="/pagine/modeling/curly.htm" id="curly"><img src="../imgs/modeling/curly/curly.jpg" width="140" height="190" alt="Curly" title="<b>Curly</b>" class="someClass"  /></a></li>
-                <li><a href="/pagine/modeling/friday.htm" id="friday"><img src="../imgs/modeling/friday/friday.jpg" width="140" height="190" alt="Friday" title="<b>Friday</b>" class="someClass" /></a></li>
-        <li><a href="/pagine/modeling/nice_suit.htm" id="suit"><img src="../imgs/modeling/nice_suit/nicesuit.jpg" width="140" height="190"  alt="Nice Suit" title="<b>Nice Suit</b>" class="someClass"/></a></li>
-        <li><a href="/pagine/modeling/photomanipulated.htm" id="photo"><img src="../imgs/modeling/photomanipulating/photo.jpg" width="140" height="190" alt="Photomanipulated" title="<b>Photomanipulated</b>" class="someClass"/></a></li>
+		  <li><a href="/modeling/ilovemyjob.htm" id="myjob"><img src="/imgs/modeling/ilovemyjob/01.jpg"  width="140" height="190"  alt="I love my job" title="<b>I love my job</b>" class="someClass" /></a></li>
+      <li><a href="/pagine/modeling/steampunk_black.htm" id="steam-b"><img src="/imgs/modeling/steampunk_black/01.jpg"  width="140" height="190"  alt="Black Steampunk" title="<b>Black Steampunk</b>" class="someClass" /></a></li>
+      <li><a href="/pagine/modeling/warrior.htm" id="warrior"><img src="/imgs/modeling/warrior/01.jpg"  width="140" height="190"  alt="Queen of War" title="<b>Queen of War</b>" class="someClass" /></a></li>
+            <li><a href="/pagine/modeling/burlesque.htm" id="burlesque"><img src="/imgs/modeling/burlesque/01.jpg" width="140" height="190" alt="Burlesque" title="<b>Burlesque</b>"  class="someClass"/></a></li>
+              <li><a href="/pagine/modeling/just-me.htm" id="just"><img src="/imgs/modeling/just-me/01.jpg"  width="140" height="190"  alt="Just me!" title="<b>Just me!</b>" class="someClass" /></a></li>
+              <li><a href="/pagine/modeling/waste-of-time.htm" id="waste"><img src="/imgs/modeling/waste-of-time/01.jpg" width="140" height="190" alt="Waste of Time" title="<b>Waste of Time</b>"  class="someClass"/></a></li>
+            <li><a href="/pagine/modeling/hello-fun.htm" id="hello-fun"><img src="/imgs/modeling/hello-fun/hello-fun.jpg" width="140" height="190" alt="Hello Fun" title="<b>Hello Fun</b>"  class="someClass"/></a></li>
+      <li><a href="/pagine/modeling/victorian-purple.htm" id="victorian-purple"><img src="/imgs/modeling/victorian-purple/01.jpg" width="140" height="190" alt="Victorian Purple" title="<b>Victorian Purple</b>"  class="someClass"/></a></li>
+      <li><a href="/pagine/modeling/camden-gothic.htm" id="camden-gothic"><img src="/imgs/modeling/camden-gothic/01.jpg" width="140" height="190" alt="Back in Black" title="<b>Camden Gothic</b>"  class="someClass"/></a></li>
+       <li><a href="/pagine/modeling/back-in-black.htm" id="back-black"><img src="/imgs/modeling/back-in-black/01.jpg" width="140" height="190" alt="Back in Black" title="<b>Back in Black</b>"  class="someClass"/></a></li>
+        <li><a href="/pagine/modeling/purple-winter.htm" id="purple-winter"><img src="/imgs/modeling/purple-winter/purple-winter.jpg" width="140" height="190" alt="Purple Winter" title="<b>Purple Winter</b>"  class="someClass"/></a></li>
+        <li><a href="/pagine/modeling/pink-candy.htm" id="pink-candy"><img src="/imgs/modeling/pink-candy/pink-candy.jpg" width="140" height="190"alt="Pink Candy" title="<b>Pink Candy</b>" class="someClass" /></a></li>
+        <li><a href="/pagine/modeling/black-pink.htm" id="black-pink"><img src="/imgs/modeling/black-pink/pink-black_01.jpg" width="140" height="190"alt="Black Pink" title="<b>Black Pink</b>" class="someClass" /></a></li>
+        <li><a href="/pagine/modeling/stronger.htm" id="stronger"><img src="/imgs/modeling/stronger/stronger.jpg" width="140" height="190" alt="Stronger" title="<b>Stronger</b>" class="someClass" /></a></li>
+        <li><a href="/pagine/modeling/hot-pink.htm" id="hot-pink"><img src="/imgs/modeling/hot-pink/hot-pink.jpg" width="140" height="190" alt="Hot Pink" title="<b>Hot Pink</b>" class="someClass" /></a></li>
+        <li><a href="/pagine/modeling/treasure.htm" id="treasure"><img src="/imgs/modeling/treasure/treasure.jpg" width="140" height="190" alt="Treasure for a girl" title="<b>Treasure for a girl</b>" class="someClass" /></a></li>
+        <li><a href="/pagine/modeling/white-dots.htm" id="white-dots"><img src="/imgs/modeling/white-dots/white-dots.jpg" width="140" height="190" alt="White Dots" title="<b>White Dots</b>" class="someClass" /></a></li>
+        <li><a href="/pagine/modeling/decadence.htm" id="decadence"><img src="/imgs/modeling/decadence/decadence.jpg" width="140" height="190" alt="Decadence" title="<b>Decadence</b>" class="someClass" /></a></li>
+        <li><a href="/pagine/modeling/lolita.htm" id="lolita"><img src="/imgs/modeling/lolita/lolita.jpg" width="140" height="190" alt="Sweet Lolita" title="<b>Sweet Lolita</b>" class="someClass" /></a></li>
+        <li><a href="/pagine/modeling/legwarmer.htm" id="legwarmer"><img src="/imgs/modeling/legwarmer/legwarmer.jpg" width="140" height="190" alt="Legwarmer" title="<b>Legwarmer</b>" class="someClass" /></a></li>
+        <li><a href="/pagine/modeling/gothic.htm" id="gothic"><img src="/imgs/modeling/gothic/gothic.jpg" width="140" height="190" alt="Gothic" title="<b>Gothic</b>" class="someClass" /></a></li>
+        <li><a href="/pagine/modeling/curly.htm" id="curly"><img src="/imgs/modeling/curly/curly.jpg" width="140" height="190" alt="Curly" title="<b>Curly</b>" class="someClass"  /></a></li>
+                <li><a href="/pagine/modeling/friday.htm" id="friday"><img src="/imgs/modeling/friday/friday.jpg" width="140" height="190" alt="Friday" title="<b>Friday</b>" class="someClass" /></a></li>
+        <li><a href="/pagine/modeling/nice_suit.htm" id="suit"><img src="/imgs/modeling/nice_suit/nicesuit.jpg" width="140" height="190"  alt="Nice Suit" title="<b>Nice Suit</b>" class="someClass"/></a></li>
+        <li><a href="/pagine/modeling/photomanipulated.htm" id="photo"><img src="/imgs/modeling/photomanipulating/photo.jpg" width="140" height="190" alt="Photomanipulated" title="<b>Photomanipulated</b>" class="someClass"/></a></li>
       </ul>
     </div>
     <a href="#" class="jcarousel-control-prev">&laquo;</a>
@@ -177,7 +177,7 @@ gtag('config', 'G-990739KXME');
 <section id="boxes-gallery">
 
 <figure class="preview">
-<!-- TemplateBeginEditable name="preview" --><img src="../imgs/cosplay/aisha_believix/02.jpg" alt=""/><!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="preview" --><img src="/imgs/cosplay/aisha_believix/02.jpg" alt=""/><!-- TemplateEndEditable -->
 </figure><figure class="data">
 <ul>
 <li class="color2">
@@ -249,9 +249,9 @@ gtag('config', 'G-990739KXME');
 <p class="credits">
 &copy; Copyright <strong>Hello Len*</strong> 2015 - All the images and pics (where not specified) are mine. Don't use them without my permission.<br />
       <br />
-      Supported browsers: <img src="../imgs/layout/browser-ff.png" alt="Firefox 4+" width="20" height="20" align="absmiddle" /> &nbsp; <img src="../imgs/layout/browser-ie.png" alt="IE" width="20" height="20" align="absmiddle" />&nbsp; <img src="../imgs/layout/browser-safari.png" alt="Safari" width="20" height="20" align="absmiddle" />&nbsp; <img src="../imgs/layout/browser-opera.png" alt="Opera" width="20" height="20" align="absmiddle" />&nbsp; <img src="../imgs/layout/browser-chrome.png" alt="Chrome" width="20" height="20" align="absmiddle" /> &nbsp;- 
+      Supported browsers: <img src="/imgs/layout/browser-ff.png" alt="Firefox 4+" width="20" height="20" align="absmiddle" /> &nbsp; <img src="/imgs/layout/browser-ie.png" alt="IE" width="20" height="20" align="absmiddle" />&nbsp; <img src="/imgs/layout/browser-safari.png" alt="Safari" width="20" height="20" align="absmiddle" />&nbsp; <img src="/imgs/layout/browser-opera.png" alt="Opera" width="20" height="20" align="absmiddle" />&nbsp; <img src="/imgs/layout/browser-chrome.png" alt="Chrome" width="20" height="20" align="absmiddle" /> &nbsp;- 
       
-      Hosted by <a href="http://www.npsgroup.it/" target="_blank" title="NPS group - business solution"><img src="../imgs/banner/shwsolution.gif" alt="NPS group - business solution"  border="0" align="absmiddle" /></a> - Web design &amp; Developing by <strong>Hello Len*</strong><br />
+      Hosted by <a href="http://www.npsgroup.it/" target="_blank" title="NPS group - business solution"><img src="/imgs/banner/shwsolution.gif" alt="NPS group - business solution"  border="0" align="absmiddle" /></a> - Web design &amp; Developing by <strong>Hello Len*</strong><br />
  <br />
       <script type="text/javascript" language="JavaScript" SRC="https://codice.shinystat.it/cgi-bin/getcod.cgi?USER=LEN"></script>
       <noscript>
