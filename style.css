@@ -1679,10 +1679,6 @@ form {
 	}
 
 
-	.modeling #boxes-gallery figure.preview img {
-		margin-top: -50px
-	}
-
 	#boxes-gallery figure.picture {
 		display: none;
 		visibility: hidden
